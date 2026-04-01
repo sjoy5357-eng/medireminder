@@ -1,0 +1,5 @@
+{
+  "name": "MedRemind",
+  "description": "A simple and reliable medicine reminder app to help you stay on track with your medications.",
+  "requestFramePermissions": ["notifications"]
+}
